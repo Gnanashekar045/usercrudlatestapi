@@ -16,6 +16,7 @@ const UserList = () => {
         file: ""
     })
 
+    //this function handles all kind of inputs//
     const handlechange = (e) => {
         const {name, value, checked, type, files} = e.target
         setUser((prev)=>({
