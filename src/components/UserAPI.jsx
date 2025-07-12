@@ -33,6 +33,7 @@ const UserList = () => {
     }
     const handleSubmit = (e) => {
         e.preventDefault()
+        //for update logic//
         if(EditUserIndex) {
             updateUser()
         } else {
