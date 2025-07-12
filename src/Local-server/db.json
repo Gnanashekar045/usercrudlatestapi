@@ -1,0 +1,25 @@
+{
+  "UserlistData": [
+    {
+      "id": "7a9e",
+      "name": "Gnanashekar",
+      "email": "gnanashekark17@gmail.com",
+      "language": [
+        "Telugu",
+        "kannada",
+        "Tamil"
+      ],
+      "hobbies": [
+        "writting",
+        "eatting",
+        "playing",
+        "dancing"
+      ],
+      "gender": "male",
+      "option": "yes",
+      "course": "",
+      "address": "gret",
+      "file": {}
+    }
+  ]
+}
